@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sosmarc. Let me say that "I had a dream". That one day I'd be sharing my code with the community and supporting their work despite I'm aware that I'm more a programming enthusiast than a real one.
 However, I've realised that even the most humble code snippet may make the difference helping us saving a lot of time coding the auxiliary parts of a program and sometimes even making us
-loosing the big picture of what we are actually trying to accomplish. This is what I'm trying to share with you: Small pieces of code that someone eventually might find useful and want to apply them into their
+loosing the big picture of what we are actually trying to accomplish. This is what I'm trying to share with you: Small pieces of code that someone eventually might find useful and want to apply into their
 own codes and also improve them to ease their use to the community.
 Maybe, if I arm myself with patience and skills, I'll try to turn this pieces of code in an actual library. Who knows...
 - 👀 I’m a Chemical Engineer with a Master's Degree in Numerical Methods and Artificial Intelligence and a PhD in Chemical Engineering Thermodynamics (Everything seems consistent, right? :wink:).
